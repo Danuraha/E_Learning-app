@@ -1,0 +1,20 @@
+.style1
+{
+  background-image: url('../ProfileDetails/bg.jpeg');
+  background-repeat: no-repat;
+  background-size: cover;
+  background-blend-mode: multiply;
+  
+}
+
+.topbox{
+    padding-top: 90px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.details{
+  padding-top: 60px;
+  padding-left: 30px;
+}
+
